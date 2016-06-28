@@ -1,0 +1,42 @@
+private static final long serialVersionUID = 1L; //not entirely sure what this is 
+    //    for, but the warning was bothering me
+	
+	//GUI creation
+	
+	
+	//Class specific functions
+
+	//Mouse interactions
+	public void mouseReleased(MouseEvent e){
+		
+	}
+	
+	public void mouseClicked(MouseEvent e){
+		
+	}
+	
+	public void mouseExited(MouseEvent e){
+		
+	}
+	
+	public void mousePressed(MouseEvent e){
+		
+	}
+	
+	public void mouseEntered(MouseEvent e){
+		
+	}
+	
+	
+	//Key Interactions
+	public void keyReleased(KeyEvent e){
+		
+	}
+	
+	public void keyTyped(KeyEvent e){
+		
+	}
+	
+	public void keyPressed(KeyEvent e){
+		
+	}
